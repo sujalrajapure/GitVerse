@@ -1,6 +1,4 @@
-Absolutely! Here’s a clean, practical **`README.md`** for your **GitHub Repository Analyzer with Gemini API** — ready to put on GitHub:
 
----
 
 # 📊 GitHub Repository Analyzer with AI Summary
 
