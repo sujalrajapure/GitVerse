@@ -118,4 +118,4 @@ If you want, I can also prepare:
 ✅ Example `.env` file
 ✅ Example `analyzer.py` template
 
-Just say **“Yes, give me the code files too!”** 🚀✨
+
